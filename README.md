@@ -8,3 +8,6 @@ Indoor music venues can be thought of as Linear and Time Invariant (LTI) systems
 ![](images/linearity.JPG)
 * Time Invariance: Delaying an input by T delays the output by T
 ![](images/time_invariance.JPG)
+
+The key advantage in being able to work with an LTI system is that it is characterized entirely by its impulse response. That is, the output of the system y(t) is the convolution (\*) of the input x(t) with the system's impulse response h(t)
+![](images/convolution.JPG)
