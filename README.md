@@ -5,6 +5,6 @@ Disclaimer: I started this project because I wanted to see what my favorite song
 ## Background
 Indoor music venues can be thought of as Linear and Time Invariant (LTI) systems. LTI systems have 2 defining properties:
 * Linearity: There is a linear mapping between the input and output
-![](images/linearity.jpg)
+![](images/linearity.JPG)
 * Time Invariance: Delaying an input by T delays the output by T
-![](images/time_invariance.jpg)
+![](images/time_invariance.JPG)
