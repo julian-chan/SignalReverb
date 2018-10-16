@@ -8,6 +8,16 @@ This was written with Python and tested with Python 3.6.
 Dependencies:
 * [soundfile](https://pypi.org/project/SoundFile/)
 
+## Usage
+To run the script, run:
+
+`python reverb.py input_path imp_resp_path output_path`
+
+Arguments:
+* input_path: file path to input .wav sound file
+* imp_resp_path: file path to impulse response .wav sound file
+* output_path: file path to output .wav sound file
+
 ## Background
 Indoor music venues can be thought of as Linear and Time Invariant (LTI) systems. LTI systems have 2 defining properties:
 * Linearity: There is a linear mapping between the input and output
